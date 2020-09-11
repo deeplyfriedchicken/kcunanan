@@ -2,10 +2,10 @@
 
 [![Website](https://img.shields.io/website-up-down-green-red/https/cunanan.dev?label=cunanan.dev&style=for-the-badge)](https://cunanan.dev/)
 
-## I'm a software engineer, athlete and pet lover!
+## I'm a software engineer, athlete, and pet lover!
 
 - 📚 Currently learning Swift
-- 🌱 Developing an open source CMS project [Float](https://github.com/ukiyodigital/float)
+- 🌱 Developing an open source Headless GraphQL Content Management System [Float](https://github.com/ukiyodigital/float)
 - 👀 Looking for new positions and opportunities
 - 🧘🏼‍♂️ Searching for balance during a pandemic
 
