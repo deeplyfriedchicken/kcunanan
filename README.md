@@ -4,10 +4,9 @@
 
 ## I'm a software engineer, athlete, and pet lover!
 
-- 📚 Currently learning Swift
-- 🌱 Developing an open source Headless GraphQL Content Management System [Float](https://github.com/ukiyodigital/float)
-- 👀 Looking for new positions and opportunities
-- 🧘🏼‍♂️ Searching for balance during a pandemic
+- 📚  Currently learning Swift
+- 🌱  Developing an open source Headless GraphQL Content Management System [Float](https://github.com/ukiyodigital/float)
+- 🧘  Searching for balance during a pandemic
 
 ## Connect with me:
 
